@@ -5,3 +5,4 @@ This is a line from Rstudio.
 A new line I wrote on my local computer.
 This is a new line from Rstudio.
 A new line I wrote on my local computer
+A new line from my local computer.
